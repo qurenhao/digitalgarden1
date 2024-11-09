@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/French/des mots/"}
+{"dg-publish":true,"permalink":"/French/des mots/","dgPassFrontmatter":true,"created":"2024-11-08T20:21:05.958+08:00","updated":"2024-11-09T14:04:42.852+08:00"}
 ---
 
 
