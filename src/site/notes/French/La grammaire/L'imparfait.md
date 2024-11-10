@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/French/La grammaire/L'imparfait/","dgPassFrontmatter":true,"created":"2024-10-28T19:20:00.657+08:00","updated":"2024-11-09T19:47:24.000+08:00"}
+{"dg-publish":true,"permalink":"/French/La grammaire/L'imparfait/","dgPassFrontmatter":true}
 ---
 
 #### 定义：
 未完成过去时是用来描述过去的时态。  
 用来表示过去正在进行的状态或是过去重复的动作。  **动作或是状态的起始时间是未知的。**  
-类似英语的***“was”***或是***“was doing***
+类似英语的***was***或是***was doing***
 #### 变位：
 去掉直陈式现在时第二人称复数（nous）的词尾（ons），加上***ais, ais, ait, ions, iez, aient***  
 特殊单词：***être***  
