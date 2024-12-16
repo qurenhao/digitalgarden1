@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/French/Les cours/商务法语/MOdule 2/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/HRM/","dgPassFrontmatter":true}
 ---
 
 # 人力资源管理
