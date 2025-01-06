@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/HRM/","dgPassFrontmatter":true,"created":"2024-12-22T20:00:19.689+08:00","updated":"2024-12-26T12:29:11.793+08:00"}
+{"dg-publish":true,"permalink":"/HRM/","dgPassFrontmatter":true}
 ---
 
 # 人力资源管理

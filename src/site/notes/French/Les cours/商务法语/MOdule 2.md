@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/French/Les cours/商务法语/MOdule 2/","dgPassFrontmatter":true,"created":"2024-11-19T19:10:49.127+08:00","updated":"2024-12-15T21:32:42.453+08:00"}
+{"dg-publish":true,"permalink":"/French/Les cours/商务法语/MOdule 2/","dgPassFrontmatter":true}
 ---
 
 # 人力资源管理
