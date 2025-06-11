@@ -1,25 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/Traduction/","dgPassFrontmatter":true,"created":"2025-06-09T21:23:25.819+08:00","updated":"2025-06-09T23:26:02.514+08:00"}
+{"dg-publish":true,"permalink":"/Traduction/","dgPassFrontmatter":true,"created":"2025-06-09T21:23:25.819+08:00","updated":"2025-06-11T14:38:51.427+08:00"}
 ---
 
+**中国特色社会主义道路是实现社会主义现代化、创造人民美好生活的必由之路。** 中国特色社会主义理论体系是指导党和人民实现中华民族伟大复兴的正确理论。**中国特色社会主义制度是当代中国发展进步的根本制度保障。** 中国特色社会主义文化是激励全党全国各族人民奋勇前进的强大精神力量。
+——2017年10月18日，习近平在中国共产党第十九次全国代表大会的报告
+La voie du socialisme à la chinoise est le passage obligé pour réaliser la modernisation socialiste et créer une vie meilleure pour les Chinois; le système théorique du socialiste à la chinoise est la juste théorie permettant à notre parti et notre peuple de réaliser le grand renouveau de la nation chinoise; le régime socialiste à la chinoise offre la garantie constitutionnelle fondamentale pour le développement et le progrès de la Chine contemporaine; la culture socialiste à la chinoise est une puissante force spirituelle qui pousse notre parti et notre peuple multiethnique à aller engouragement de l'avant.
 
-Imaginer que cette situation financière américaine n'aurait pas de conséquences en Europe, ce serait une illusion. La forte chute des cours boursiers des banques européens en témoigne.Pourquoi ? D'une part, les banques européennes et américaines ont des nombreux contrats en commun et d'autre part, la finance est globalisée. De plus, la crise va obliger les banques à réduire encore plus leur exposition au risque. Dans cette cadre,elles(les banques) seront de plus en plus restrictives dans leur octroi des crédits. Cela réduira mécaniquement l'investissement, l'emploi, les revenues et la consommation.
 
-我们千万不要幻想美国金融状况对欧洲不会产生影响。欧洲银行股价狂跌便说明了问题。为什么？一方面是因为欧洲银行和美国银行有很多合同是共享的；另一方面因为金融业已经被全球化了。更何况危机一到，那些银行势必更加努力避险。如此一来，银行将限制放贷。因此自然会引发投资，就业，收入和消费的减少。
 
-la crise fianciere qui nous traversons depuis quelques annees est la plus grave depuis celle de 1992.
 
-La mise en liquidation d'une des compagnies les plus performantes de la finance mondiale Lehman Brothers en est encore la épreuve incontestable.
 
-Qui pouvait croire il n'y a pas de long temps encore que cette insritution disposait de 640 millards de dollars d'actifs en mai 2007 et gérait de 273 millards de dollars est en voie de disparition en 2008?
+***La voie du socialisme à la chinoise est le passage obligé pour réaliser la modernisation socialiste et créer une vie meilleure pour les Chinois;*** le système théorique du socialisme à la chinoise est la juste théorie permettant au Parti et au peuple chinois de réaliser le grand renouveau de la nation; ***le régime du socialisme à la chinoise offre la garantie institutionnelle fondamentale pour le développement et le progrès de la Chine contemporaine;*** la culture du socialisme à la chinoise est une puissante force spirituelle qui pousse notre parti et notre peuple multiethnique à aller courageusement de l'avant.
+*—Rapport au XIXe Congrès du Parti communiste chinois*
 
-La faillite de cette constution financière est lourde de conséquence. Non seulement parce qu'elle entraîne des chômages, mais aussi parce qu'elle fait craindre que le pire est aussi possible.
-1．几年前爆发的金融危机是自1929年以来最严重的一场危机。
 
-2.一度跻身全球最佳业绩的雷曼兄弟被清算就亳无疑问地证实了这一点。
+改革开放之后，我们党对我国社会主义现代化建设作出战略安排，提出“三步走”战略目标。解决人民温饱问题、人民生活总体上达到小康水平这两个目标已提前实现。在这个基础上，我们党提出，到建党一百年时建成经济更加发展、民主更加健全、科教更加进步、文化更加繁荣、社会更加和谐、人民生活更加殷实的小康社会，然后再奋斗三十年，到新中国成立一百年时，基本实现现代化，把我国建成社会主义现代化国家。
 
-3.就在不久前，谁又想到这家机构在2008年会消失呢？而在2007年5月雷曼兄弟还握有6400亿美金的资产，而且管理着2730化美元？
-
-4.这家金融机构的破产后果很严重，不仅仅是因为它导致失业，还因为它使我们意识到更糟糕的也许还在后面。
-
-**L'interprétation est orale, instantanée (synchrone/simultanée), exige réactivité et adaptation. La traduction est écrite, réfléchie, permet révision et recherche, privilégiant précision terminologique et stylistique. Deux métiers distincts.**
+***Après la mise en œuvre de la politique de réforme et d’ouverture, notre parti a pris des dispositions stratégiques en matière de modernisation socialiste du pays et s’est fixé l’objectif stratégique de développement « en trois étapes ».*** Jusqu’à présent, les deux premières étapes – mettre la population à l’abri des besoins essentiels et lui assurer une vie de moyenne aisance dans son ensemble –, ont été franchies avant la date prévue. ***Sur cette base, notre parti a proposé les objectifs suivants : au moment du centenaire de la fondation du Parti, il faudra avoir parachevé la construction de la société de moyenne aisance caractérisée par une économie plus développée, une démocratie plus avancée, un niveau scientifique et éducatif plus élevé, une culture plus prospère, une société plus harmonieuse et une vie plus aisée ;*** ensuite, après encore trois décennies d’efforts, au moment du centenaire de la Chine nouvelle, il faudra avoir réalisé pour l’essentiel la modernisation du pays pour le transformer en un État socialiste moderne.
