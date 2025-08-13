@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/direction/","dgPassFrontmatter":true,"created":"2025-08-13T13:33:49.255+08:00","updated":"2025-08-13T13:36:44.773+08:00"}
+{"dg-publish":true,"permalink":"/direction/","dgPassFrontmatter":true,"created":"2025-08-13T13:42:38.635+08:00","updated":"2025-08-13T14:19:41.179+08:00"}
 ---
 
-# 购买说明
+### 购买说明
 此链接默认仅支持验证印度学生信息，**信息验证后的绑卡过程需要自己完成。**
 **若没有印度环境以及绑卡条件也可拍全套服务**
-# 操作说明：
+### 操作说明：
 请先挂上印度节点，然后点击[**登录**](https://gemini.google/students/)自己的谷歌账号，查看是否能够进入验证界面：
 <img src="https://mes-photos.oss-cn-hangzhou.aliyuncs.com/img/%E9%AA%8C%E8%AF%81%E7%95%8C%E9%9D%A2.png" alt="验证界面" width="50%">
 
@@ -29,7 +29,7 @@
 
 ---
 
-# 注意事项：
+### 注意事项：
 点击上方**Get Google Pro**后会跳转下方页面：
 <img src="https://mes-photos.oss-cn-hangzhou.aliyuncs.com/img/20250813131125.png" alt="图片描述" style="width:50%;">
 **此步骤不包含在此产品内，需要用户自行解决，不作为退款凭证！！！**
