@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/instruction/","dgPassFrontmatter":true,"created":"2025-08-13T11:56:47.946+08:00","updated":"2025-08-13T13:15:58.894+08:00"}
+{"dg-publish":true,"permalink":"/instruction/","dgPassFrontmatter":true,"created":"2025-08-13T11:56:47.946+08:00","updated":"2025-08-13T13:25:11.211+08:00"}
 ---
 
 # 购买说明
@@ -29,6 +29,6 @@
 ---
 
 # 注意事项：
-点击上方**Get Goole Pro**后会跳转下方页面：
+点击上方**Get Google Pro**后会跳转下方页面：
 <img src="https://mes-photos.oss-cn-hangzhou.aliyuncs.com/img/20250813131125.png" alt="图片描述" style="width:50%;">
 **此步骤不包含在此产品内，需要用户自行解决，不作为退款凭证！！！**
