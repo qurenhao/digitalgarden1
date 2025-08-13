@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/English/Translation contest/","dgPassFrontmatter":true,"created":"2025-06-01T16:08:07.189+08:00","updated":"2025-06-01T16:08:07.205+08:00"}
+{"dg-publish":true,"permalink":"/English/Translation contest/","dgPassFrontmatter":true,"created":"2024-10-30T19:39:49.276+08:00","updated":"2025-06-01T17:23:08.000+08:00"}
 ---
 
 

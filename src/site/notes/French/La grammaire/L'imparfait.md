@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/French/La grammaire/L'imparfait/","dgPassFrontmatter":true,"created":"2025-06-01T16:08:08.005+08:00","updated":"2025-06-01T16:08:08.005+08:00"}
+{"dg-publish":true,"permalink":"/French/La grammaire/L'imparfait/","dgPassFrontmatter":true,"created":"2024-10-28T19:20:00.657+08:00","updated":"2025-06-01T17:23:57.000+08:00"}
 ---
 
 #### 定义：
