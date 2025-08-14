@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/direction/","dgPassFrontmatter":true,"created":"2025-08-13T13:33:49.255+08:00","updated":"2025-08-13T14:19:47.000+08:00"}
+{"dg-publish":true,"permalink":"/direction/","dgPassFrontmatter":true,"created":"2025-08-13T13:33:49.255+08:00","updated":"2025-08-14T14:37:00.317+08:00"}
 ---
 
 ### 购买说明
@@ -12,7 +12,7 @@
 
 **若能进入验证界面，可以直接拍下付款**，我会为您发送验证信息的文件，您参照我为您发送的文件在以下界面填写信息即可：
 
-<img src="https://mes-photos.oss-cn-hangzhou.aliyuncs.com/img/20250813130230.png" alt="图片描述" style="width:50%;">
+<img src="https://mes-photos.oss-cn-hangzhou.aliyuncs.com/img/%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95.png" alt="图片描述" style="width:50%;">
 
 填写提交后，在如下界面上传验证文件中的的图1和图2：
 
